@@ -1,0 +1,41 @@
+h1 {
+    background-color: aquamarine;
+    text-align: center;
+    border: 5pt dotted;
+    border-color: red orange;
+    border-radius: 35pt;
+
+}
+
+p.sub {
+    text-align: center;
+    background-color: aliceblue;
+    border: 0pt;
+    font: 10pt;
+}
+
+div.sentostilo1 {
+    background-color: rgb(255, 255, 255);
+    text-align:center;
+    border: rgba(255, 255, 255, 0.75) 8px inset;
+
+}
+
+table.sentostilo1 {
+    background-color: rgb(255, 255, 255);
+    text-align:center;
+    border: rgb(255, 255, 255) 8px outset;
+
+}
+
+h2.sentostilo1 {
+    background-color: rgb(255, 255, 255);
+    text-align:center;
+    border: rgb(255, 255, 255) 8px ridge;
+
+}
+
+h2.title {
+    font: red
+
+}
